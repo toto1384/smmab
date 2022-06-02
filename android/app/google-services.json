@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "672952641982",
+    "firebase_url": "https://smmab-ea6af.firebaseio.com",
+    "project_id": "smmab-ea6af",
+    "storage_bucket": "smmab-ea6af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672952641982:android:3c9ebd34b9bf82bdaf71ef",
+        "android_client_info": {
+          "package_name": "com.distivity.smmab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672952641982-m9pqr548u3p82o4jvusp8955mcc380vp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.distivity.smmab",
+            "certificate_hash": "19f4ae18f8de8573736648f4492abc8a6d0bc470"
+          }
+        },
+        {
+          "client_id": "672952641982-028a0dq2o4fjehil7iqianturgib56hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuxNvQfQq0E9yE2m9iNeETSknspbh4PcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672952641982-028a0dq2o4fjehil7iqianturgib56hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

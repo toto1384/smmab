@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>672952641982-0jrutbo2aho9f9pg7610ljjscngloqob.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.672952641982-0jrutbo2aho9f9pg7610ljjscngloqob</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>672952641982-m9pqr548u3p82o4jvusp8955mcc380vp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIxcTQawReOtQa9ipvYhlVeUZsCHCCJ8Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>672952641982</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.distivity.smmab</string>
+	<key>PROJECT_ID</key>
+	<string>smmab-ea6af</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smmab-ea6af.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:672952641982:ios:02d9f0ed110b0db6af71ef</string>
+	<key>DATABASE_URL</key>
+	<string>https://smmab-ea6af.firebaseio.com</string>
+</dict>
+</plist>
